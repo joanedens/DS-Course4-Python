@@ -4,29 +4,46 @@
 At the bottom of each lab is instructions to share them on GitHub. Since the labs are comprehensive, I'm using them in lieu of notes.
 
 * Week 1 - Python Basics 
-  - Lab 1 - Expressions and variables - PY0101EN-1-1
-  - Lab 2 - Strings - PY0101EN-1-2
+  - PY0101EN-1-1 Expressions and variables
+    * int, float, str
+    * bool, True, False
+  - PY0101EN-1-2 Strings 
 * Week 2 - Python Data Structures
-  - Lab 1 - Tuples
-  - Lab 2 - Lists
-  - Lab 3 - Dictionaries
-  - Lab 4 - Sets
+  - PY0101EN-2-1 Tuples
+    * Looking forward to seeing why we use these - they seem awkward to work with.
+    * index, negative index
+    * contatenate
+    * slice
+    * len
+    * immutability
+    * nesting
+  - PY0101EN-2-2 Lists
+    * slice
+    * concatenate
+    * extend
+    * append
+    * mutability
+    * del
+    * split
+    * aliasing
+  - PY0101EN-2-3 - Dictionaries
+  - PY0101EN-2-4 - Sets
 * Week 3 - Python Programming Fundamentals
-  - Lab 1 - Conditions and Branching
-  - Lab 2 - Loops
-  - Lab 3 - Functions
-  - Lab 4 - Exception Handling
-  - Lab 5 - Objects and Classes
+  - PY0101EN-3-1 Conditions and Branching
+  - PY0101EN-3-2 Loops
+  - PY0101EN-3-3 Functions
+  - PY0101EN-3-4 Exception Handling
+  - PY0101EN-3-5 Objects and Classes
 * Week 4 - Working with Data in Python
-  - Lab 1 - Reading Files with Open
-  - Lab 2 - Writing Files with Open
-  - Lab 3 - Pandas with IBM Watson Studio
-  - Lab 4 - One Dimensional Numpy
-  - Lab 5 - Two Dimensional Numpy
+  - PY0101EN-4-1 Reading Files with Open
+  - PY0101EN-4-2 Writing Files with Open
+  - PY0101EN-4-3 Pandas with IBM Watson Studio
+  - PY0101EN-4-4 One Dimensional Numpy
+  - PY0101EN-4-5 Two Dimensional Numpy
 * Week 5 - APIs and Data Collections
-  - Lab 1 - Introduction to API
-  - Lab 2 - Watson Speech to Text and Language Translator API
-  - Lab 3 - Access REST APIs & Request HTTP
-  - Lab 4 - Webscraping
-  - Lab 5 - Working with Different File Formats
+  - PY0101EN-5-1 Introduction to API
+  - PY0101EN-5-2 Watson Speech to Text and Language Translator API
+  - PY0101EN-5-3 Access REST APIs & Request HTTP
+  - PY0101EN-5-4 Webscraping
+  - PY0101EN-5-5 Working with Different File Formats
 
