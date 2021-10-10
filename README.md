@@ -36,6 +36,12 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * split
     * aliasing
   - PY0101EN-2-3 - Dictionaries
+    * creating - dict{key:value,key:value}
+    * querying value - dict[key]
+    * adding - dict[key]=value
+    * deleting - del(dict[key])
+    * verifying - 'KeyName' in dict
+    * listing contents - dict.keys() or dict.values()
   - PY0101EN-2-4 - Sets
 * Module - Python Programming Fundamentals
   - PY0101EN-3-1 Conditions and Branching
