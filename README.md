@@ -1,7 +1,7 @@
 # Course 4 - Python for Data Science
 ## IBM Data Science Professional Certificate 
 
-At the bottom of each lab is instructions to share them on GitHub. Since the labs are comprehensive, I'm using them in lieu of notes.
+At the bottom of each lab is instructions to share them on GitHub. Since the labs are comprehensive, I'm using this repository in lieu of notes.
 
 * Module 1 - Python Basics 
   - PY0101EN-1-1 Expressions and variables
