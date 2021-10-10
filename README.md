@@ -7,8 +7,8 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
   - Lab 1 - Expressions and variables - PY0101EN-1-1
   - Lab 2 - Strings - PY0101EN-1-2
 * Week 2 - Python Data Structures
-  - Lab 1 - Lists
-  - Lab 2 - Tuples
+  - Lab 1 - Tuples
+  - Lab 2 - Lists
   - Lab 3 - Dictionaries
   - Lab 4 - Sets
 * Week 3 - Python Programming Fundamentals
