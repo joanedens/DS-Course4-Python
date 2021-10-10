@@ -18,7 +18,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * escape sequences
     * operatons
 * Module - Python Data Structures
-  - PY0101EN-2-1 Tuples
+  - PY0101EN-2-1 tuple=()
     * Looking forward to seeing why we use these - they seem awkward to work with.
     * index, negative index
     * concatenate
@@ -26,7 +26,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * len
     * immutability
     * nesting
-  - PY0101EN-2-2 Lists
+  - PY0101EN-2-2 list=[]
     * slice
     * concatenate
     * extend
@@ -35,14 +35,23 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * del
     * split
     * aliasing
-  - PY0101EN-2-3 - Dictionaries
-    * creating - dict{key:value,key:value}
+  - PY0101EN-2-3 - dict{key:value}
+    * two column table w/uniqe keys
     * querying value - dict[key]
     * adding - dict[key]=value
     * deleting - del(dict[key])
     * verifying - 'KeyName' in dict
     * listing contents - dict.keys() or dict.values()
-  - PY0101EN-2-4 - Sets
+  - PY0101EN-2-4 - set={}
+    * lists with only unique elements
+    * typecast list to set - set(list)
+    * set.add()
+    * set.remove()
+    * set1.intersection(set2) or set3=set1&set2
+    * set1.union(set2)
+    * set1.diference(set2)
+    * set3.issubset(set1)
+    * set1.issuperset(set2)
 * Module - Python Programming Fundamentals
   - PY0101EN-3-1 Conditions and Branching
   - PY0101EN-3-2 Loops
