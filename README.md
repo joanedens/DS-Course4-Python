@@ -1,5 +1,7 @@
-# DS-Course4-Python
-## IBM Data Science Professional Certificate Course 4 Lab Files
+# Course4 - Python for Data Science
+## IBM Data Science Professional Certificate 
+
+At the bottom of each lab is instructions to share them on GitHub. Since the labs are comprehensive, I'm using them in lieu of notes.
 
 * Week 1 - Python Basics 
   - Lab 1 - Expressions and variables - PY0101EN-1-1
