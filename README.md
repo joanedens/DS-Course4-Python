@@ -8,6 +8,12 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * int, float, str
     * bool, True, False
   - PY0101EN-1-2 Strings 
+    * index, negative index
+    * contatenate
+    * slice
+    * stride
+    * escape sequences
+    * operatons
 * Week 2 - Python Data Structures
   - PY0101EN-2-1 Tuples
     * Looking forward to seeing why we use these - they seem awkward to work with.
