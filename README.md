@@ -54,6 +54,10 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * set1.issuperset(set2)
 * Module - Python Programming Fundamentals
   - PY0101EN-3-1 Conditions and Branching
+    * ==, !=, <, >, <=, >=
+    * strings compared by ascii value, characters judged in order
+    * if/else/elif (else if)
+    * and/or
   - PY0101EN-3-2 Loops
   - PY0101EN-3-3 Functions
   - PY0101EN-3-4 Exception Handling
