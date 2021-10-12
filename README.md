@@ -60,7 +60,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * and, or
   - PY0101EN-3-2 Loops
     * impression: 
-      - inconsistencies in required program steps and syntax for () starting to drive me batty.
+      - lab/lesson inconsistencies in required program steps and syntax for () starting to drive me batty.
       - don't forget to include statement to ensure loop stops if all compares are valid
     * range(start, stop, [step]) - results never include stop value, stop is only required value
     * for
