@@ -19,7 +19,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * operatons
 * Module - Python Data Structures
   - PY0101EN-2-1 tuple=()
-    * Looking forward to seeing why we use these - they seem awkward to work with.
+    * impression: looking forward to seeing why we use these - they seem awkward to work with.
     * index, negative index
     * concatenate
     * slice
@@ -59,6 +59,12 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * if, else, elif (else if)
     * and, or
   - PY0101EN-3-2 Loops
+    * impression: 
+      - inconsistencies in required program steps and syntax for () starting to drive me batty.
+      - don't forget to include statement to ensure loop stops if all compares are valid
+    * range(start, stop, [step]) - results never include stop value, stop is only required value
+    * for
+    * while
   - PY0101EN-3-3 Functions
   - PY0101EN-3-4 Exception Handling
   - PY0101EN-3-5 Objects and Classes
