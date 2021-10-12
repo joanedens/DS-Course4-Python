@@ -66,6 +66,11 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * for
     * while
   - PY0101EN-3-3 Functions
+    * built-in
+    * created
+      - def functionname(arg1, *args)
+        - statement/internal variable/"""help description"""
+      - global variable
   - PY0101EN-3-4 Exception Handling
   - PY0101EN-3-5 Objects and Classes
 * Module - Working with Data in Python
