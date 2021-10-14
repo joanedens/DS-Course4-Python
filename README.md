@@ -76,6 +76,11 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * else
     * finally
   - PY0101EN-3-5 Objects and Classes
+    * Not sure learned what was supposed to here. After being given tons of examples of "create objects with these two attributes and a function to use to modify one of those two attributes," we were given an exercise to create a class based on manipulating and filtering text. Ah, so we can include arguments in the initializaton... Wound up looking at the solution to see how. Will see if can work with what stuck in brain to move forward. If not, will go find another tutorial to fill in the blanks.
+    * Objects & Classes
+    * Creating classes
+    * Attributes
+    * Methods/functions
 * Module - Working with Data in Python
   - PY0101EN-4-1 Reading Files with Open
   - PY0101EN-4-2 Writing Files with Open
