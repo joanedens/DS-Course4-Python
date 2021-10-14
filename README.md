@@ -72,6 +72,9 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
         - statement/internal variable/"""help description"""
       - global variable
   - PY0101EN-3-4 Exception Handling
+    * try/except
+    * else
+    * finally
   - PY0101EN-3-5 Objects and Classes
 * Module - Working with Data in Python
   - PY0101EN-4-1 Reading Files with Open
