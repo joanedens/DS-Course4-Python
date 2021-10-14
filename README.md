@@ -76,7 +76,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * else
     * finally
   - PY0101EN-3-5 Objects and Classes
-    * Not sure learned what was supposed to here. After being given tons of examples of "create objects with these two attributes and a function to use to modify one of those two attributes," we were given an exercise to create a class based on manipulating and filtering text. Ah, so we can include arguments in the initializaton... Wound up looking at the solution to see how. 
+    * Not sure learned what was supposed to here. After being given tons of examples of "create objects with these two attribute variables and a function to use to modify one of the variables." Then we were given a complex exercise to create a class based on manipulating and filtering text... 
     * Will see if can work with what stuck in brain to move forward. If not, will have to go find another tutorial to fill in the blanks. Not helpful.
     * Objects & Classes
     * Creating classes
