@@ -86,9 +86,6 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
   - PY0101EN-4-1 Reading Files with Open
   - PY0101EN-4-2 Writing Files with Open
     * use with open(file/object, "r"/"w"/"a") as object: to ensure file object is closed at end of block
-    *      name = object.read()/.write()
-    *      print(name)
-    * object.closed - True/False
     * r+ / w+ / a+
     * .tell() / .seek(offset,from)
   - PY0101EN-4-3 Pandas with IBM Watson Studio
