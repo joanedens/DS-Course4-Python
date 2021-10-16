@@ -76,19 +76,22 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * else
     * finally
   - PY0101EN-3-5 Objects and Classes
-    * Not sure learned what was supposed to here. After being given tons of examples of "create objects with these two attribute variables and a function to use to modify one of the variables." Then we were given a complex exercise to create a class based on manipulating and filtering text... 
+    * Not sure learned what was supposed to here. After being given tons of examples of "create a class with these two attribute variables and then create a function to modify one of the variables," we're given a complex exercise to create a class based on manipulating and filtering text... 
     * Will see if can work with what stuck in brain to move forward. If not, will have to go find another tutorial to fill in the blanks. Not helpful.
     * Objects & Classes
     * Creating classes
     * Attributes
     * Methods/functions
-* Module - Working with Data in Python
+* Module 4 - Working with Data in Python
   - PY0101EN-4-1 Reading Files with Open
   - PY0101EN-4-2 Writing Files with Open
     * use with open(file/object, "r"/"w"/"a") as object: to ensure file object is closed at end of block
     * r+ / w+ / a+
     * .tell() / .seek(offset,from)
-  - PY0101EN-4-3 Pandas with IBM Watson Studio
+  - Python_Basics Pandas with IBM Watson Studio
+    * Ending quiz required functions that were not covered, so had to research each task online. Not sure it's helpful to have a class where the test doesn't have anything to do with what was covered in the material...
+    * While doesn't seem to add value to the price paid for the course, I'm happy in that I figured it out without looking at the solution first. I won't do like the first time they jumped the tracks, again. I can dooos it.
+    * Also glad took the time to work through how to post from IBM Cloud to GitHub again. Learned to create a 'master' branch to make it work.
   - PY0101EN-4-4 One Dimensional Numpy
   - PY0101EN-4-5 Two Dimensional Numpy
 * Module - APIs and Data Collections
