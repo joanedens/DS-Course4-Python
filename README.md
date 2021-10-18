@@ -93,10 +93,10 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * pandas.read_csv / read_excel...to_csv(x.csv)
     * file.head()
     * df=pd.DataFrame(dictionary_key)
-    * df1=df[['column1',column4]]
+    * df1=df[['column1','column4']]
     * df['column'].unique()
     * df1=df[df['column']>=another_column_value]
-    * df.iloc[]/df.loc[]
+    * df.iloc[[/df.loc]]
     * df.copy()
     * df.index
   - PY0101EN-4-4 One Dimensional Numpy
