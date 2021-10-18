@@ -89,10 +89,22 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * r+ / w+ / a+
     * .tell() / .seek(offset,from)
   - Python_Basics Pandas with IBM Watson Studio
-    * Ending quiz required functions that were not covered, so had to research each task online. Not sure it's helpful to have a class where the test doesn't have anything to do with what was covered in the material...
-    * While doesn't seem to add value to the price paid for the course, I'm happy in that I figured it out without looking at the solution first. I won't do like the first time they jumped the tracks, again. I can dooos it.
-    * Also glad took the time to work through how to post from IBM Cloud to GitHub again. Learned to create a 'master' branch to make it work.
+    * Ending quiz required functions that were not covered, so had to research each task. Not helpful to pay for a class where the lessons are found elsewhere... still happy in that I figured it out without looking at the solution first. Going forward, always research externally before giving up. I can dooos it. Lab link to GitHub worked this time, so posted directly.
+    * pandas.read_csv / read_excel...to_csv(x.csv)
+    * file.head()
+    * df=pd.DataFrame(dictionary_key)
+    * df1=df[['column1',column4]]
+    * df['column'].unique()
+    * df1=df[df['column']>=another_column_value]
+    * df.iloc[]/df.loc[]
+    * df.copy()
+    * df.index
   - PY0101EN-4-4 One Dimensional Numpy
+    * np.array()
+    * array addition, subtraction, multiplication 
+    * Hadamard product, producting same dimension matrices: a &#8728; b
+    * Dot product, producing scalar number to determine sameness: np.dot()
+    * plotting vectors using matplotlib.pyplot and defined functions
   - PY0101EN-4-5 Two Dimensional Numpy
 * Module - APIs and Data Collections
   - PY0101EN-5-1 Introduction to API
