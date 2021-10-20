@@ -110,6 +110,9 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * sine, transpose
 * Module - APIs and Data Collections
   - PY0101EN-5-1 Introduction to API
+    *  Using Pandas API
+    *  REST API basics
+    *  Quiz on Tuples
   - PY0101EN-5-2 Watson Speech to Text and Language Translator API
   - PY0101EN-5-3 Access REST APIs & Request HTTP
   - PY0101EN-5-4 Webscraping
