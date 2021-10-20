@@ -19,7 +19,6 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * operatons
 * Module - Python Data Structures
   - PY0101EN-2-1 tuple=()
-    * impression: looking forward to seeing why we use these - they seem awkward to work with.
     * index, negative index
     * concatenate
     * slice
@@ -77,7 +76,6 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * finally
   - PY0101EN-3-5 Objects and Classes
     * Not sure learned what was supposed to here. After being given tons of examples of "create a class with these two attribute variables and then create a function to modify one of the variables," we're given a complex exercise to create a class based on manipulating and filtering text... 
-    * Will see if can work with what stuck in brain to move forward. If not, will have to go find another tutorial to fill in the blanks. Not helpful.
     * Objects & Classes
     * Creating classes
     * Attributes
@@ -89,7 +87,7 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * r+ / w+ / a+
     * .tell() / .seek(offset,from)
   - Python_Basics Pandas with IBM Watson Studio
-    * Ending quiz required functions that were not covered, so had to research each task. Not helpful to pay for a class where the lessons are found elsewhere... still happy in that I figured it out without looking at the solution first. Going forward, always research externally before giving up. I can dooos it. Lab link to GitHub worked this time, so posted directly.
+    * Ending quiz required functions that were not covered, so had to research each task. Still, happy in that I figured it out without looking at the solution first.  I can dooos it. Lab link to GitHub worked this time, so posted directly.
     * pandas.read_csv / read_excel...to_csv(x.csv)
     * file.head()
     * df=pd.DataFrame(dictionary_key)
@@ -106,6 +104,10 @@ At the bottom of each lab is instructions to share them on GitHub. Since the lab
     * Dot product, producing scalar number to determine sameness: np.dot()
     * plotting vectors using matplotlib.pyplot and defined functions
   - PY0101EN-4-5 Two Dimensional Numpy
+    * np.array(a) where a is a nested list
+    * ndim, shape, size
+    * addition, hadamard product(array multiplication), dot product (matrix multiplication)
+    * sine, transpose
 * Module - APIs and Data Collections
   - PY0101EN-5-1 Introduction to API
   - PY0101EN-5-2 Watson Speech to Text and Language Translator API
